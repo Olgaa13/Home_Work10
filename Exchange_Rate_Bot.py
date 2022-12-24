@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import telebot
 
-bot = telebot.TeleBot('5944947702:AAFf-icLvtyPJXxv35DLLoPUUXqMe1VaNZs')
+bot = telebot.TeleBot('TOKEN')
 
 url = 'https://www.cbr.ru/'
 
